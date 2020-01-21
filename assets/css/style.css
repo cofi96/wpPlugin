@@ -1,0 +1,29 @@
+/* Form */
+.home-header{
+    margin-top: 2%;
+    margin-left: 2%;
+    font-size: 32px;
+}
+.input-number{
+    display: inline-block;
+}
+.category-text{
+    display: inline-block;
+}
+
+/* Active jobs table */
+.displayTable{
+    width:100%;
+    padding:3px;
+    text-align: center;
+    margin-bottom: 4%;
+    width: 98%;
+}
+.displayTable th{
+    font-size: 16px;
+    text-align: center;
+    border-bottom:2px solid black;
+}
+.displayTable td{
+    border-bottom:1px solid black;
+}
